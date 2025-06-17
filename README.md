@@ -37,6 +37,23 @@ python main.py
 3. Select an output folder (default: `downloads`).
 4. The video will be downloaded as an MP4 file.
 
+## 🖼️ Demo
+Add your screenshots to the `demo/` folder and reference them below:
+![Choose Video](demo/choose-video.png)
+*For this example, i took a Mr. Beast vid*
+
+![Start Prompt](demo/start-prompt.png)
+*Prompt for YouTube URL*
+
+![Filename Choice](demo/filename-choice.png)
+*Choose filename or use original title*
+
+![Folder Choice](demo/select-folder.png)
+*Copy from file explorer*
+
+![Download Complete](demo/download-complete.png)
+*Download finished message*
+
 ## ⚠️ Notes
 - If a video is not available in your country, you’ll get a friendly error message.
 - If a video cannot be downloaded as a single MP4 file, you’ll be notified. For advanced downloads, install ffmpeg.
