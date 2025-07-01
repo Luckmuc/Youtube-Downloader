@@ -139,13 +139,13 @@ Add your screenshots to the `demo/` folder and reference them below:
 *For this example, i took a Mr. Beast vid*
 
 ![Start Prompt](demo/start-prompt.png)
-*Prompt for YouTube URL*
+*Prompt for YouTube URL and enter your Youtube-URL*
 
 ![Filename Choice](demo/filename-choice.png)
 *Choose filename or use original title*
 
 ![Folder Choice](demo/select-folder.png)
-*Copy from file explorer*
+*Just press enter for default, to view the vid, cd downloads in /Youtube-Downloader*
 
 ![Download Complete](demo/download-complete.png)
 *Download finished message*
